@@ -1,0 +1,1 @@
+# Test Exempel för Vecka 1 - GIT och GitHub Inlärningskruva.
